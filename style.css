@@ -704,10 +704,6 @@ p {
     margin: auto auto auto auto;
 }
 
-.sr-only {
-    visibility: hidden;
-}
-
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -848,7 +844,7 @@ h4 {
         max-width: 80%
     }
     .nav-center.navbar .nav {
-        max-width: 100%
+        max-width: 80%
     }
 }
 
